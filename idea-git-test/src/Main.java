@@ -7,4 +7,8 @@ public class Main {
     public void talk(){
         System.out.println("haha");
     }
+    
+    public void haha(){
+		System.out.println("hshshsf");
+	}
 }
